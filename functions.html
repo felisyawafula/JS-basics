@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Js Functions</title>
+</head>
+<body>
+
+<script>
+    //node webstorm
+    function greet(){
+        alert('Hello')
+    }
+
+    //greet()
+    function greeting(name='Guest'){
+        alert(`Hello ${name}`)
+    }
+    // greeting('Moses')
+    // greeting()
+
+    function areaCircle(r){
+        return 22/7 * r**2
+    }
+
+    // let res1 = areaCircle(3.6)
+    //  console.log(res1)
+    // console.log(Math.round(res1 *100)/100)
+
+    //function expression
+    const volumeCylinder = function (r,h){
+        return 22/7 * r**2 * h
+    }
+    // console.log(volumeCylinder(7,10))
+
+    //Arrow functions
+    const SurfaceArea = (r, h) => 22/7 * r**2 *2 + 22/7 * r * 2 * h
+    console.log(SurfaceArea(10,29))
+
+    const sayHi = () => {
+        return 'Bonjour'
+    }
+
+
+
+</script>
+
+</body>
+</html>

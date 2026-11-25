@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="069a813f-d7c6-4008-8d5a-f9b7fea35dbe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Js_basics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ES6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/classes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/es6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/hesabu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datatypes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/events.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if_stattements.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loops.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operators.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/switch_case.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variables.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.000000000006221" />
+      <entry key="S2" value="1.0015792990121273" />
+      <entry key="S5" value="1.0758796075058008" />
+      <entry key="S10" value="1.2920777373923984" />
+      <entry key="S30" value="2.441495952303583" />
+      <entry key="S60" value="5.387957412332984" />
+      <entry key="M2" value="12.09663265428858" />
+      <entry key="M5" value="27.5781894852825" />
+      <entry key="M10" value="44.071817993742435" />
+      <entry key="M15" value="56.874950435883626" />
+      <entry key="M30" value="89.57045162299971" />
+      <entry key="H1" value="140.67163168666724" />
+      <entry key="H2" value="215.8827760091882" />
+      <entry key="H4" value="334.20317027492655" />
+      <entry key="D1" value="717.3923582494901" />
+      <entry key="W1" value="868.2348749057857" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="9.324200228111548E-42" />
+      <entry key="MS500" value="6.2218898492185044E-9" />
+      <entry key="S2" value="0.008881383098206299" />
+      <entry key="S5" value="0.1513618781148629" />
+      <entry key="S10" value="0.408270551049691" />
+      <entry key="S30" value="1.2569758162833031" />
+      <entry key="S60" value="2.2348673773672023" />
+      <entry key="M2" value="3.3266923449294095" />
+      <entry key="M5" value="5.362360248603506" />
+      <entry key="M10" value="7.922198533355412" />
+      <entry key="M15" value="10.013240391043716" />
+      <entry key="M30" value="15.15909953566053" />
+      <entry key="H1" value="21.895351745685435" />
+      <entry key="H2" value="30.988610605430598" />
+      <entry key="H4" value="48.16661428762716" />
+      <entry key="D1" value="108.73274620254904" />
+      <entry key="W1" value="132.36404434006846" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8122523963562355" />
+      <entry key="MS500" value="0.9592641193531691" />
+      <entry key="S2" value="0.993062707103768" />
+      <entry key="S5" value="1.15010749244466" />
+      <entry key="S10" value="1.5815992804489587" />
+      <entry key="S30" value="3.557224916713528" />
+      <entry key="S60" value="7.478239316836989" />
+      <entry key="M2" value="15.28791141998882" />
+      <entry key="M5" value="32.828736078340256" />
+      <entry key="M10" value="51.90576932930102" />
+      <entry key="M15" value="66.81098211706919" />
+      <entry key="M30" value="104.66531112661265" />
+      <entry key="H1" value="162.514538947598" />
+      <entry key="H2" value="246.82975679212413" />
+      <entry key="H4" value="382.3358366857848" />
+      <entry key="D1" value="826.1124173985028" />
+      <entry key="W1" value="1000.5967234251948" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3MY3kSkIa8EsDylQgmMbq5gZKwV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.ES6.html.executor": "Run",
+    "JavaScript Debug.arrays.html.executor": "Run",
+    "JavaScript Debug.datatypes.html.executor": "Run",
+    "JavaScript Debug.events.html.executor": "Run",
+    "JavaScript Debug.functions.html.executor": "Run",
+    "JavaScript Debug.if_stattements.html.executor": "Run",
+    "JavaScript Debug.intro.html.executor": "Run",
+    "JavaScript Debug.loops.html.executor": "Run",
+    "JavaScript Debug.operators.html.executor": "Run",
+    "JavaScript Debug.switch_case.html.executor": "Run",
+    "JavaScript Debug.variables.html.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.classes.js.executor": "Run",
+    "Node.js.es6.js.executor": "Debug",
+    "Node.js.hesabu.js.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Node.js.classes.js">
+    <configuration name="ES6.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:59535/Js_basics/ES6.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="events.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:59535/Js_basics/events.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="classes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS/classes.js" working-dir="$PROJECT_DIR$/JS">
+      <method v="2" />
+    </configuration>
+    <configuration name="es6.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS/es6.js" working-dir="$PROJECT_DIR$/JS">
+      <method v="2" />
+    </configuration>
+    <configuration name="hesabu.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS/hesabu.js" working-dir="$PROJECT_DIR$/JS">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.classes.js" />
+        <item itemvalue="Node.js.es6.js" />
+        <item itemvalue="Node.js.hesabu.js" />
+        <item itemvalue="JavaScript Debug.ES6.html" />
+        <item itemvalue="JavaScript Debug.events.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-9e1d95ea72ba-e0583fc556d1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-263.7307.329" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="069a813f-d7c6-4008-8d5a-f9b7fea35dbe" name="Changes" comment="" />
+      <created>1795513817873</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1795513817873</updated>
+      <workItem from="1795513819616" duration="6121000" />
+      <workItem from="1795535629942" duration="406000" />
+      <workItem from="1795536539125" duration="13787000" />
+      <workItem from="1795581668546" duration="21026000" />
+      <workItem from="1795613122730" duration="945000" />
+      <workItem from="1795614153951" duration="10377000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/JS/hesabu.js</url>
+          <line>2</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/JS/hesabu.js</url>
+          <line>3</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
